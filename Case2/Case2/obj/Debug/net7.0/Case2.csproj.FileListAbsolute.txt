@@ -1,0 +1,15 @@
+C:\CASES\Case2\Case2\bin\Debug\net7.0\Case2.exe
+C:\CASES\Case2\Case2\bin\Debug\net7.0\Case2.deps.json
+C:\CASES\Case2\Case2\bin\Debug\net7.0\Case2.runtimeconfig.json
+C:\CASES\Case2\Case2\bin\Debug\net7.0\Case2.dll
+C:\CASES\Case2\Case2\bin\Debug\net7.0\Case2.pdb
+C:\CASES\Case2\Case2\obj\Debug\net7.0\Case2.csproj.AssemblyReference.cache
+C:\CASES\Case2\Case2\obj\Debug\net7.0\Case2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CASES\Case2\Case2\obj\Debug\net7.0\Case2.AssemblyInfoInputs.cache
+C:\CASES\Case2\Case2\obj\Debug\net7.0\Case2.AssemblyInfo.cs
+C:\CASES\Case2\Case2\obj\Debug\net7.0\Case2.csproj.CoreCompileInputs.cache
+C:\CASES\Case2\Case2\obj\Debug\net7.0\Case2.dll
+C:\CASES\Case2\Case2\obj\Debug\net7.0\refint\Case2.dll
+C:\CASES\Case2\Case2\obj\Debug\net7.0\Case2.pdb
+C:\CASES\Case2\Case2\obj\Debug\net7.0\Case2.genruntimeconfig.cache
+C:\CASES\Case2\Case2\obj\Debug\net7.0\ref\Case2.dll
